@@ -136,4 +136,43 @@ Uso de Elastic Load Balancing (ELB) para permitir a substituição fácil de ban
 
 ---
 
+## Segundo Bimestre
+
+### Aula 05/05/2025  
+- **VPC (Virtual Private Cloud):**
+  - Criação de uma rede virtual isolada na AWS, permitindo controle total de endereçamento e roteamento.  
+- **CIDR (Classless Inter-Domain Routing):**
+  - Planejamento flexível de blocos de endereços IP sem as limitações de classes tradicionais.  
+- **Subnet Pública:**
+  - Definição de sub-redes com rota para Internet Gateway, viabilizando o acesso público de recursos.
+
+---
+
+### Aula 19/05/2025  
+- **VPC Peering:**
+  - Conexão privada entre duas VPCs para roteamento direto de tráfego sem passar pela internet.  
+- **AWS VPN Site-to-Site:**
+  - Estabelecimento de túnel VPN IPSec entre rede on-premises e VPC, garantindo criptografia ponta a ponta.  
+- **AWS Direct Connect:**
+  - Link de rede dedicado de alta largura de banda e baixa latência entre data center local e AWS.
+
+---
+
+### Aula 26/05/2025  
+- **IAM Groups:**
+  - Agrupamento de usuários para gerenciamento coletivo de permissões e políticas.  
+- **Roles – AWS STS (Security Token Service):**
+  - Emissão de credenciais temporárias para assumir papéis com permissões específicas.  
+- **AWS Cognito:**
+  - Serviço de identidade e autenticação para aplicações web e mobile, suportando usuários e grupos.
+
+---
+
+### Aula 29/05/2025  
+- **Criptografia Simétrica:**
+  - Uso de uma única chave para cifrar e decifrar dados (ex.: AES), eficiente mas requer gestão segura das chaves.  
+- **Criptografia Assimétrica:**
+  - Par de chaves pública/privada (ex.: RSA), permitindo troca segura de chaves e assinaturas digitais.
+
+
 🤠
